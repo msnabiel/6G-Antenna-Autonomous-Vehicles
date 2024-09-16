@@ -4,7 +4,7 @@
 
 This repository contains the design and simulation data for a **tooth-shaped patch antenna** intended for autonomous vehicles operating within **6G wireless systems**. The novel design provides **higher gain** and improved performance, specifically reducing the **mutual coupling effect** while maintaining **good impedance matching**. This antenna operates at **77 GHz**, a frequency commonly used in vehicular RADAR systems to support features like automatic cruise control, lane change assistance, and pedestrian protection systems.
 
-RESEARCH PAPER : [VIEW](A_Novel_and_High_Gain_Antenna_Design_for_Autonomous_Vehicles_of_6G_Wireless_Systems (1))
+RESEARCH PAPER: [VIEW](./A_Novel_and_High_Gain_Antenna_Design_for_Autonomous_Vehicles_of_6G_Wireless_Systems.pdf)
 
 ## Features
 
