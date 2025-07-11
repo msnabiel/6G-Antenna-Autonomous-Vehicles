@@ -6,6 +6,11 @@ This repository contains the design and simulation data for a **tooth-shaped pat
 
 RESEARCH PAPER : [VIEW](./A_Novel_and_High_Gain_Antenna_Design_for_Autonomous_Vehicles_of_6G_Wireless_Systems.pdf)
 
+### Design Visualization:  
+![Antenna Design 1](https://github.com/msnabiel/6G-Antenna-Autonomous-Vehicles/blob/main/Antenna_img1.png)  
+
+![Antenna Design 2](https://github.com/Synisterflare02/6G-Antenna-Autonomous-Vehicles/blob/main/Antenna_img2.png)  
+
 ## Features
 
 - **Frequency**: 77 GHz (Millimeter-wave band)
