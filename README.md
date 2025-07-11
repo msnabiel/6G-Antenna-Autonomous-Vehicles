@@ -9,7 +9,7 @@ RESEARCH PAPER : [VIEW](./A_Novel_and_High_Gain_Antenna_Design_for_Autonomous_Ve
 ### Design Visualization:  
 ![Antenna Design 1](https://github.com/msnabiel/6G-Antenna-Autonomous-Vehicles/blob/main/Antenna_img1.png)  
 
-![Antenna Design 2](https://github.com/Synisterflare02/6G-Antenna-Autonomous-Vehicles/blob/main/Antenna_img2.png)  
+![Antenna Design 2](https://github.com/msnabiel/6G-Antenna-Autonomous-Vehicles/blob/main/Antenna_img2.png)  
 
 ## Features
 
